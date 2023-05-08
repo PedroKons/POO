@@ -1,0 +1,13 @@
+package meupacote;
+
+public class FormaPagamento {
+    private String descricao;
+
+    public void getDescricao(){
+        return this.descricao;
+    }
+
+    public void setDescricao(){
+        this.descricao = descricao;
+    }
+}
